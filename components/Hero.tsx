@@ -11,7 +11,7 @@ import {
 export default function Hero() {
   return (
     <section
-      className="relative min-h-screen flex items-center justify-center overflow-hidden px-6"
+     className="relative min-h-screen flex items-center justify-center overflow-hidden px-6 pt-24 md:pt-0"
     >
 
       {/* Background Glow */}
@@ -82,8 +82,8 @@ export default function Hero() {
   target="_blank"
 ><FaLinkedin className="hover:text-cyan-400 cursor-pointer duration-300" /></a>
             
-<a href="https://www.facebook.com/ammar.ktk.1">
-            <FaFacebook className="hover:text-cyan-400 cursor-pointer duration-300" />
+<a href="https://www.facebook.com/amaar.ktk.1">
+<FaFacebook className="hover:text-cyan-400 cursor-pointer duration-300" />
 </a>
           </div>
 
