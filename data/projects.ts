@@ -4,7 +4,7 @@ export const projects = [
     description:
       "A responsive web application that allows users to generate and manage student transcripts using MySQL and JavaScript.",
     technologies: ["HTML", "CSS", "JavaScript", "MySQL"],
-    github: "#",
+    github: "https://github.com/Ammarkhattak143",
     demo: "#",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     description:
       "A modern frontend e-commerce website with responsive design and attractive UI components.",
     technologies: ["HTML", "CSS", "JavaScript"],
-    github: "#",
+    github: "https://github.com/Ammarkhattak143",
     demo: "#",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     description:
       "A Bash script project that automates Linux system updates and package management.",
     technologies: ["Linux", "Bash"],
-    github: "#",
+    github: "https://github.com/Ammarkhattak143",
     demo: "#",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     description:
       "Designed and implemented a relational MySQL database for university coursework.",
     technologies: ["MySQL"],
-    github: "#",
+    github: "https://github.com/Ammarkhattak143",
     demo: "#",
   },
 ];

@@ -60,12 +60,7 @@ export default function Projects() {
                   GitHub
                 </a>
 
-                <a
-                  href={project.demo}
-                  className="px-5 py-2 rounded-lg border border-cyan-500 hover:bg-cyan-500"
-                >
-                  Live Demo
-                </a>
+               
 
               </div>
 
