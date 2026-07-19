@@ -31,4 +31,13 @@ export const projects = [
     github: "https://github.com/Ammarkhattak143",
     demo: "#",
   },
+  {
+  title: "BMI Calculator",
+
+  description:
+    "A modern responsive BMI calculator built with HTML, CSS, and JavaScript that calculates BMI and provides instant health category feedback.",
+
+  github:
+    "https://github.com/Ammarkhattak143",
+},
 ];
